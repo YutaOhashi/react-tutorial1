@@ -142,3 +142,7 @@ aside img {
 footer {
   margin-top: 10px;
 }
+
+a {
+  color: blue;
+}
